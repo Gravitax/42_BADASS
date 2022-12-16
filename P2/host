@@ -1,6 +1,8 @@
+# host_maboye-1
 ip addr add 30.1.1.1/24 dev eth0
 
 -----------------------------------------
 
+# host_maboye-2
 ip addr add 30.1.1.2/24 dev eth0
 
